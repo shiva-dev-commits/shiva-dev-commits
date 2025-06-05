@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Shiva 
 
-<!--
-**shiva-dev-commits/shiva-dev-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Python developer who builds real-world scripts to clean data, validate files, generate reports, and automate boring tasks.
 
-Here are some ideas to get you started:
+🔧 **What I Do**:
+- Clean and validate messy CSV or Excel files  
+- Automate data pipelines (logs, reports, notifications)  
+- Help with file handling, scheduling, and Python scripting  
+- Open to freelance, volunteer, or part-time projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Currently Working On**:
+- Building a sample project that cleans customer CSV data
+- Helping anyone who needs help with automation scripts
+
+📫 **Reach me**:
+- GitHub: [shiva-dev-commits](https://github.com/shiva-dev-commits)
+- LinkedIn: *[]*
+
+Let's connect and build something useful!
